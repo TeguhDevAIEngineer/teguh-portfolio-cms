@@ -1,0 +1,6 @@
+{
+  "name": "Teguh Rahayu - Portfolio & CMS",
+  "description": "Minimalist portfolio and content management system for Teguh Rahayu, featuring coding projects, creative work, blog sections, client contacts, and a built-in AI-assisted admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
